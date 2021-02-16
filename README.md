@@ -57,4 +57,10 @@ similarity and a range of technologies
  https://www.ijeat.org/wpcontent/uploads/papers/v9i5/E9666069520.pdf
  http://www.ijstr.org/final-print/dec2019/A-Review-Paper-On-CollaborativeFiltering-Based-Moive-Recommedation-System-.pdf
 * Python Documentation: https://docs.python.org/3/
+
+## Prerequisites 
+You need to have installed the following softwares and libraries in your machine before running this project
+* Python 3 - https://www.python.org/downloads/
+* Anaconda: It will install Jupyter notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scipy. - https://www.anaconda.com/download/
+
  
