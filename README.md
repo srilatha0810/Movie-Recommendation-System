@@ -53,11 +53,33 @@ similarity and a range of technologies
 ## Sources
 * Dataset: https://grouplens.org/datasets/movielens/100k/
 * Research Papers: <br/>
- [1] http://sersc.org/journals/index.php/IJAST/article/view/961/837
- [2] https://www.ijeat.org/wpcontent/uploads/papers/v9i5/E9666069520.pdf
- [3] http://www.ijstr.org/final-print/dec2019/A-Review-Paper-On-CollaborativeFiltering-Based-Moive-Recommedation-System-.pdf
- [4] http://www.riejournal.com/article_106395_c6c0038f1bf5d4c421bd552d0541d6be.pdf
- [5] http://www.ijfrcsce.org/download/browse/Volume_4/December_18_Volume_4_Issue_12/1546423733_31-12-2018.pdf
+[1] K. Rangaswamy, P. Anjaiah, J. Avanija, Movie Recommendations with Conventional
+Strategies using MovieLens Dataset, International Journal of Advanced Science and
+Technology Vol. 28, No. 9, (2019), pp. 286-295, URL: http://sersc.org/journals/index.php/IJAST/article/view/961/837 <br/>
+[2] Ramni Harbir Singh, Sargam Maurya, Tanisha Tripathi, Tushar Narula, Gaurav
+Srivastav, Movie Recommendation System using Cosine Similarity and KNN,
+International Journal of Engineering and Advanced Technology (IJEAT) ISSN: 2249 –
+8958, Volume-9 Issue-5, June 2020, URL: https://www.ijeat.org/wpcontent/uploads/papers/v9i5/E9666069520.pdf <br/>
+[3] Nirav Raval, Vijayshri Khedkar, A Review Paper On Collaborative Filtering Based
+Movie Recommendation System,INTERNATIONAL JOURNAL OF SCIENTIFIC &
+TECHNOLOGY RESEARCH VOLUME 8, ISSUE 12, DECEMBER 2019 ISSN 2277-
+8616, URL: http://www.ijstr.org/final-print/dec2019/A-Review-Paper-On-CollaborativeFiltering-Based-Moive-Recommedation-System-.pdf <br/>
+[4] F. Furtado , A, Singh Department of Master of Application, Jain University,
+Knowledge Campus, Bengalore, Karnataka, India, Movie Recommendation System
+Using Machine Learning, Int. J. Res. Ind. Eng. Vol. 9, No. 1 (2020) 84–98, DOI:
+10.22105/riej.2020.226178.1128, URL:
+http://www.riejournal.com/article_106395_c6c0038f1bf5d4c421bd552d0541d6be.pdf <br/>
+[5] Ananya Agarwal, S. Srinivasan, Movie Recommendation System, International
+Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395-0056 Volume: 
+44
+07 Issue: 07 | July 2020 p-ISSN: 2395-0072 © 2020, IRJET, URL:
+https://www.irjet.net/archives/V7/i7/IRJET-V7I7199.pdf <br/>
+[6] Nupur Kalra, Deepak Yadav, Gourav Bathla, Movie Recommender System using
+Collaborative Filtering, International Journal on Future Revolution in Computer Science
+& Communication Engineering ISSN: 2454-4248 Volume: 4 Issue: 12 88 – 92, URL:
+http://www.ijfrcsce.org/download/browse/Volume_4/December_18_Volume_4_Issue_12
+/1546423733_31-12-2018.pdf
+
 * Python Documentation: https://docs.python.org/3/
 
 ## Prerequisites 
