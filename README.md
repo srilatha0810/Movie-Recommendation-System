@@ -52,7 +52,7 @@ similarity and a range of technologies
 
 ## Sources
 * Dataset: https://grouplens.org/datasets/movielens/100k/
-* Research Papers: 
+* Research Papers: <br/>
  [1] http://sersc.org/journals/index.php/IJAST/article/view/961/837
  [2] https://www.ijeat.org/wpcontent/uploads/papers/v9i5/E9666069520.pdf
  [3] http://www.ijstr.org/final-print/dec2019/A-Review-Paper-On-CollaborativeFiltering-Based-Moive-Recommedation-System-.pdf
