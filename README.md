@@ -51,7 +51,7 @@ its own algorithms and metrics to be used. We will be using KNN, TF-IDF, Cosine
 similarity and a range of technologies
 
 ## Sources
-* Dataset: https://grouplens.org/datasets/movielens/100k/
+* Dataset: https://grouplens.org/datasets/movielens/
 * Research Papers: <br/>
 [1] K. Rangaswamy, P. Anjaiah, J. Avanija, Movie Recommendations with Conventional
 Strategies using MovieLens Dataset, International Journal of Advanced Science and
@@ -95,4 +95,9 @@ You need to have installed the following softwares and libraries in your machine
 * Editor: Jupyter Notebook
 * Python Libraries Used: pandas, numpy, scipy, fuzzywuzzy, sklearn
 
+## Author
+Srilatha Turlapati
+
+
+Thank you for visiting my repository.
  
