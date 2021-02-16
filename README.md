@@ -48,7 +48,7 @@ recommendation system with the necessary algorithms and metrics, give a detailed
 analysis of each system, compare and show how collaborative filtering system is a more
 efficient approach when generating movie recommendations. Each filtering system has
 its own algorithms and metrics to be used. We will be using KNN, TF-IDF, Cosine
-similarity and a range of technologies
+similarity and a range of technologies.
 
 ## Sources
 * Dataset: https://grouplens.org/datasets/movielens/
@@ -98,6 +98,5 @@ You need to have installed the following softwares and libraries in your machine
 <br/>
 <br/>
 <br/>
-
 #### Thank you for visiting my repository.
  
