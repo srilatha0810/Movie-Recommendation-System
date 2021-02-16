@@ -52,10 +52,13 @@ similarity and a range of technologies
 
 ## Sources
 * Dataset: https://grouplens.org/datasets/movielens/100k/
-* Base Papers: 
+* Research Papers: 
  http://sersc.org/journals/index.php/IJAST/article/view/961/837
  https://www.ijeat.org/wpcontent/uploads/papers/v9i5/E9666069520.pdf
  http://www.ijstr.org/final-print/dec2019/A-Review-Paper-On-CollaborativeFiltering-Based-Moive-Recommedation-System-.pdf
+ http://www.riejournal.com/article_106395_c6c0038f1bf5d4c421bd552d0541d6be.pdf
+ http://www.ijfrcsce.org/download/browse/Volume_4/December_18_Volume_4_Issue_12
+/1546423733_31-12-2018.pdf
 * Python Documentation: https://docs.python.org/3/
 
 ## Prerequisites 
