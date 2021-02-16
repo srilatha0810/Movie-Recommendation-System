@@ -88,17 +88,16 @@ You need to have installed the following softwares and libraries in your machine
 * Anaconda: It will install Jupyter notebook and most of the libraries which are needed like sklearn, pandas, fuzzywuzzy, matplotlib, numpy, scipy. - https://www.anaconda.com/download/
 
 ## Built with
-* Approaches: <br/ >
-1) Collaborative Filtering <br/>
-2) Content-based Filtering
-* Algorithm: <br/>
-KNN (K Nearest Neighbors)
+* Approaches: <br/>
+Collaborative Filtering <br/>
+Content-based Filtering
+* Algorithm: KNN (K Nearest Neighbors)
 * Metric: <br/>
--> Cosine Similarity <br/>
--> TF-IDF
+Cosine Similarity <br/>
+TF-IDF
 * Language: Python
 * Editor: Jupyter Notebook
-* Python Libraries Used:
+* Python Libraries Used: <br/>
 Pandas <br/>
 Numpy <br/>
 Scipy <br/>
