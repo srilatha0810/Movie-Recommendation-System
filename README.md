@@ -61,6 +61,6 @@ similarity and a range of technologies
 ## Prerequisites 
 You need to have installed the following softwares and libraries in your machine before running this project
 * Python 3 - https://www.python.org/downloads/
-* Anaconda: It will install Jupyter notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scipy. - https://www.anaconda.com/download/
+* Anaconda: It will install Jupyter notebook and most of the libraries which are needed like sklearn, pandas, fuzzywuzzy, matplotlib, numpy, scipy. - https://www.anaconda.com/download/
 
  
