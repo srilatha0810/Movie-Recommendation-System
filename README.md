@@ -95,9 +95,7 @@ You need to have installed the following softwares and libraries in your machine
 * Editor: Jupyter Notebook
 * Python Libraries Used: pandas, numpy, scipy, fuzzywuzzy, sklearn
 
-## Author
-Srilatha Turlapati
 
 
-Thank you for visiting my repository.
+###### Thank you for visiting my repository.
  
